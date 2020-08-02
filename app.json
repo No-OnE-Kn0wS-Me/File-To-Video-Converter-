@@ -41,7 +41,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "861055237"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
@@ -50,6 +50,12 @@
     }
   },
   "addons": [
+     {
+    "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
   ],
   "buildpacks": [{
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
