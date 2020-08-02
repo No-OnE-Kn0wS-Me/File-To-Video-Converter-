@@ -9,3 +9,4 @@ requests
 tgcrypto
 youtube-dl
 sqlalchemy
+psycopg2-binary
