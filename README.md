@@ -1,7 +1,7 @@
-## [Anydl Robot](https://telegram.dog/Anydl)
+## telegram file To Video Converter Bot With Permanent Thumbnail Support 
 ---
 
-An Open Source Telegram RoBot  😍
+An Open Source Telegram Converter Bot Based On [Anydl](https://telegram.dog/spechide)
 
 ### Special thanks
 
@@ -13,14 +13,11 @@ An Open Source Telegram RoBot  😍
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Our Telegram Channel and Group
+## Our Telegram Channel
 
-* [Dx Bots Updates](https://telegram.dog/Dx_Botz)
-
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [Mai Bots](https://telegram.dog/Mai_bOTs)
 
 
-### [@BotFather](https://telegram.dog/BotFather) Commands
 
 ```
 start - Check if the Bot is Online!
