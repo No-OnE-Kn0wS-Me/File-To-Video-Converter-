@@ -14,7 +14,7 @@ Bot By : @mAi_BotS
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank You For Using Meh</b> \n <b>Join</b> : @MaI_BoTs <b>For Other Useful Bots</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease Join Here @MaI_BoTs if you find me useful. \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    SAVED_CUSTOM_THUMB_NAIL = "<b>Custom video / file thumbnail saved.</b> <b>This Img Is Permanent Until</b> /deletethumbnail"
+    SAVED_CUSTOM_THUMB_NAIL = "<b>✅ Custom video thumbnail saved.</b> <b>This Img Is Permanent Until</b> /deletethumbnail"
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "<b>Document Downloaded Successfully.</b>"
