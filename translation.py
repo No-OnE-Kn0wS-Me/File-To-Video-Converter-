@@ -1,8 +1,9 @@
 class Translation(object):
     START_TEXT = """<b>Hello there</b>,
->>× I'm a Telegram File convert Bot! \n >>× Send Me Any Telegram Document \n >>× And I'll Convert It Into Video \n >>× With Permanent Thumbnail Support
+>>× I'm a Telegram File convert Bot! \n \n \n <b>1.Send Me Any Telegram Document Or File</b> \n <b>2.Reply To That File With /converttovideo</b>\n <b>3. I'll Convert It Into Video With Permanent Thumbnail Support.</b> \n\n\n
 
-     
+    
+Bot By : @mAi_BotS
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
@@ -25,7 +26,7 @@ Telegram ID: <code>{}</code>
 Support: <a href='https://t.me/Mai_bOTs'>{}</a>
 Expires on: {}"""
     HELP_USER = """I can :
-👉 <a href="https://telegram.dog/http://t.me/Use_FileConverterBot">Convert Any Documents/File Into Streamable Video With Permanent Thumbnail Support</a>
+👉 <a href="https://telegram.dog/http://t.me/Mai_bOTs">Convert Any Documents/File Into Streamable Video With Permanent Thumbnail Support</a>
 --------
 
 """
