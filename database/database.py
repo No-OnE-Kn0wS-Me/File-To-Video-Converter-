@@ -8,8 +8,6 @@ import threading
 import asyncio
 
 from sqlalchemy import Column, Integer, Boolean, String, ForeignKey, UniqueConstraint, func
-
-
 from sample_config import Config
 
 
